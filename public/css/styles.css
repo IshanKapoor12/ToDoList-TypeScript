@@ -1,0 +1,30 @@
+html {
+    background-color: #E4E9FD;
+    min-height: 1000px;
+    font-family: 'helvetica neue';
+}
+  #list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+  
+  label {
+    display: flex;
+    align-items: center;
+  }
+  
+  input[type="checkbox"] {
+    margin-right: 10px;
+  }
+  
+  #new-task-form {
+    margin-top: 20px;
+  }
+  
+  
